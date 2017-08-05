@@ -1,0 +1,57 @@
+ros-kinetic-autoware-msgs (1.4.0-1xenial) xenial; urgency=high
+
+
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Fri, 04 Aug 2017 07:00:00 -0000
+
+ros-kinetic-autoware-msgs (1.3.1-1xenial) xenial; urgency=high
+
+
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Sun, 16 Jul 2017 07:00:00 -0000
+
+ros-kinetic-autoware-msgs (1.3.0-1xenial) xenial; urgency=high
+
+  * Resolved merge conflict by new feature
+  * convert to autoware_msgs
+  * Contributors: YamatoAndo, Yusuke FUJII
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Fri, 14 Jul 2017 07:00:00 -0000
+
+ros-kinetic-autoware-msgs (1.2.0-1xenial) xenial; urgency=high
+
+
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Wed, 07 Jun 2017 07:00:00 -0000
+
+ros-kinetic-autoware-msgs (1.1.2-1xenial) xenial; urgency=high
+
+
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Tue, 28 Feb 2017 07:10:00 -0000
+
+ros-kinetic-autoware-msgs (1.1.1-1xenial) xenial; urgency=high
+
+
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Tue, 28 Feb 2017 06:25:00 -0000
+
+ros-kinetic-autoware-msgs (1.1.0-1xenial) xenial; urgency=high
+
+
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Fri, 24 Feb 2017 08:00:00 -0000
+
+ros-kinetic-autoware-msgs (1.0.1-1xenial) xenial; urgency=high
+
+
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Sat, 14 Jan 2017 08:00:00 -0000
+
+ros-kinetic-autoware-msgs (1.0.0-1xenial) xenial; urgency=high
+
+
+
+ -- Yusuke Fujii <yusuke.fujii@tier4.jp>  Thu, 22 Dec 2016 08:00:00 -0000
+
+
